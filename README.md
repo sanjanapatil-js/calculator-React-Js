@@ -1,11 +1,11 @@
 Here's a sample `README.md` file for your GitHub repository, including animated elements and a detailed description of your basic React calculator project:
 
-```markdown
+
 # 🧮 Basic React Calculator
 
 Welcome to the **Basic React Calculator** project! This is a simple, user-friendly calculator built using React. It allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-![Calculator](https://example.com/images/calculator.gif)
+![Calculator](https://cdn.dribbble.com/users/2842511/screenshots/6703893/800px.gif)
 
 ## 🚀 Features
 
