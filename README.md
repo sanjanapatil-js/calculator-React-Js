@@ -4,7 +4,7 @@
 
 Welcome to the **Basic React Calculator** project! This is a simple, user-friendly calculator built using React. It allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-![Calculator](https://cdn.dribbble.com/users/2842511/screenshots/6703893/800px.gif)
+![Calculator](screenshot/preview.gif)
 
 ## 🚀 Features
 
