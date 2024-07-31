@@ -1,4 +1,3 @@
-Here's a sample `README.md` file for your GitHub repository, including animated elements and a detailed description of your basic React calculator project:
 
 
 # 🧮 Basic React Calculator
